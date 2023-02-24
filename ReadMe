@@ -1,4 +1,6 @@
-This repository includes two files in csv in which are available the data used for the experimental part of the master's degree thesis of Teresa Montemurro. The data are samples extracted from the study presented in Cignarella et al, 2021 (https://ceur-ws.org/Vol-3033/paper15.pdf)
+This repository includes the corpus of data used for the experimental part of the master's degree thesis of Teresa Montemurro entitled "Avvocata, Avvocatessa o Avvocato? Il dibattito sui nomina agentis in Italia analizzato attraverso un corpus di tweet", to be discussed at the University of Turin in April 2023. 
+
+This corpus is composed of two sets of samples extracted from the study presented in Cignarella et al, 2021 (https://ceur-ws.org/Vol-3033/paper15.pdf).
 
 In the file Montemurro_campione_1000_avvocato_anonimizzato.csv you can find a set of 1,000 tweets, in anonymized form, in which the term 'avvocato' occurs, annotated with the label 'maschile' (if the term refers to a man) or 'femminile' (if the term refers to a woman).
 
